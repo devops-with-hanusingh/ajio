@@ -1,0 +1,56 @@
+[33mcommit a690527b12a05e920bd11807bb09cbb63fadd15a[m[33m ([m[1;36mHEAD -> [m[1;32mbuild[m[33m, [m[1;31morigin/build[m[33m)[m
+Merge: bdf36e2 416ee63
+Author: singhhanudevops <133157279+singhhanudevops@users.noreply.github.com>
+Date:   Wed May 17 21:30:42 2023 +0530
+
+    Merge pull request #1 from devops-with-hanusingh/uat
+    
+    Update hello.txt
+
+[33mcommit 416ee6370abae73a24a99283f760f9c7bdfa145f[m
+Author: singhhanudevops <133157279+singhhanudevops@users.noreply.github.com>
+Date:   Wed May 17 21:23:13 2023 +0530
+
+    Update hello.txt
+
+[33mcommit bdf36e21b87dcaac248cb78e60e6f8e94fa47ad5[m
+Author: singhhanudevops <singhhanudevops@gmail.com>
+Date:   Wed May 17 15:42:05 2023 +0000
+
+    updated build
+
+[33mcommit 186c316e25949d1d8ba0b4630312a83378134de9[m
+Author: singhhanudevops <singhhanudevops@gmail.com>
+Date:   Wed May 17 14:58:23 2023 +0000
+
+    updated hello.txt
+
+[33mcommit 5d11a22636e7738d8179ec744f05e75ae5598928[m
+Author: singhhanudevops <singhhanudevops@gmail.com>
+Date:   Wed May 17 14:23:46 2023 +0000
+
+    added gitignore file
+
+[33mcommit 7b5b93f49c6822ae95cfcef5fb5154ae0d193c0a[m
+Author: singhhanudevops <133157279+singhhanudevops@users.noreply.github.com>
+Date:   Wed May 17 19:00:41 2023 +0530
+
+    Update README.md
+
+[33mcommit 6869a6d2e929745f90f2e7bc33a88c5afea1b73f[m
+Author: singhhanudevops <133157279+singhhanudevops@users.noreply.github.com>
+Date:   Mon May 15 20:37:01 2023 +0530
+
+    Update README.md
+
+[33mcommit 3858b5ff85f07adc530d62a8694e92fc475ab3c4[m
+Author: singhhanudevops <133157279+singhhanudevops@users.noreply.github.com>
+Date:   Mon May 15 01:15:56 2023 +0530
+
+    Create README.md
+
+[33mcommit d0650a3bc59875b17be3d57f5e7b638730e5dd3f[m
+Author: singhhanudevops <singhhanudevops@gmail.com>
+Date:   Sun May 14 19:42:27 2023 +0000
+
+    first commit
